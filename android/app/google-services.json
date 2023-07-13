@@ -1,0 +1,308 @@
+{
+  "project_info": {
+    "project_number": "293038259746",
+    "firebase_url": "https://ancient-tractor-277102.firebaseio.com",
+    "project_id": "ancient-tractor-277102",
+    "storage_bucket": "ancient-tractor-277102.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293038259746:android:091f1dd311203a578e547b",
+        "android_client_info": {
+          "package_name": "com.example.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293038259746-4d053goso9mu9b2ola34jfkdgk39u2da.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2IUC9yY_TwUpXUxS_e8SugHpqjS8iGlM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293038259746-4d053goso9mu9b2ola34jfkdgk39u2da.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "293038259746-20navivj2rar235t9h585hmt80tb0up8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.yazi.app.user",
+                "app_store_id": "1527601725"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293038259746:android:b4be2d68bbcd66398e547b",
+        "android_client_info": {
+          "package_name": "com.example.learning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293038259746-ra3juanrd1dmri534b64cvfsppnu1dna.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.learning",
+            "certificate_hash": "72347317c6057c2ada1a03332d97c4ba01507cec"
+          }
+        },
+        {
+          "client_id": "293038259746-4d053goso9mu9b2ola34jfkdgk39u2da.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2IUC9yY_TwUpXUxS_e8SugHpqjS8iGlM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293038259746-4d053goso9mu9b2ola34jfkdgk39u2da.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "293038259746-20navivj2rar235t9h585hmt80tb0up8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.yazi.app.user",
+                "app_store_id": "1527601725"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293038259746:android:061cb528bdfa52c78e547b",
+        "android_client_info": {
+          "package_name": "com.yazi.app.guide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293038259746-386rjqhm4e0j7ueqg8cdpa3mf66mvhe9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yazi.app.guide",
+            "certificate_hash": "652d3632b68c977d2bce0e1c396ffba07add4524"
+          }
+        },
+        {
+          "client_id": "293038259746-53h17p9g6ma7vos91j168vh0jhv0a4ak.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yazi.app.guide",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "293038259746-9acagncaub787992j6st6b8ugm8btnhi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yazi.app.guide",
+            "certificate_hash": "ee8fa5e28c16fedd6164aa62758708679fdbe4ff"
+          }
+        },
+        {
+          "client_id": "293038259746-i61l3sjmg9j5g5neo3hr63mfn096jpah.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yazi.app.guide",
+            "certificate_hash": "72347317c6057c2ada1a03332d97c4ba01507cec"
+          }
+        },
+        {
+          "client_id": "293038259746-4d053goso9mu9b2ola34jfkdgk39u2da.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2IUC9yY_TwUpXUxS_e8SugHpqjS8iGlM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293038259746-4d053goso9mu9b2ola34jfkdgk39u2da.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "293038259746-20navivj2rar235t9h585hmt80tb0up8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.yazi.app.user",
+                "app_store_id": "1527601725"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293038259746:android:38e81cb41408134f8e547b",
+        "android_client_info": {
+          "package_name": "com.yazi.app.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293038259746-3572ramodfoftud49mglaftru0fv1539.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yazi.app.user",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "293038259746-9j2rvrp3rditn9uodd9b9km51i46g1v9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yazi.app.user",
+            "certificate_hash": "72347317c6057c2ada1a03332d97c4ba01507cec"
+          }
+        },
+        {
+          "client_id": "293038259746-ahpq5nql19qtieon6spf55r1pqdqev7e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yazi.app.user",
+            "certificate_hash": "ee8fa5e28c16fedd6164aa62758708679fdbe4ff"
+          }
+        },
+        {
+          "client_id": "293038259746-bepct55svbllecrpcrbq375vq5dhn8bb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yazi.app.user",
+            "certificate_hash": "652d3632b68c977d2bce0e1c396ffba07add4524"
+          }
+        },
+        {
+          "client_id": "293038259746-4d053goso9mu9b2ola34jfkdgk39u2da.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2IUC9yY_TwUpXUxS_e8SugHpqjS8iGlM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293038259746-4d053goso9mu9b2ola34jfkdgk39u2da.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "293038259746-20navivj2rar235t9h585hmt80tb0up8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.yazi.app.user",
+                "app_store_id": "1527601725"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293038259746:android:24a75b381bb37b5a8e547b",
+        "android_client_info": {
+          "package_name": "com.yaziacademy.meet.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293038259746-50j8lup4uhj82o27lfcllaqs61cht7rj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yaziacademy.meet.app",
+            "certificate_hash": "05ec9eacadf537f03368e22027dda19157c349b7"
+          }
+        },
+        {
+          "client_id": "293038259746-6t3q5ab9mrs2ce2933bkorfe0k7pop4c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yaziacademy.meet.app",
+            "certificate_hash": "72347317c6057c2ada1a03332d97c4ba01507cec"
+          }
+        },
+        {
+          "client_id": "293038259746-9u7glqs7n36jgqdjcfv8j34kq3c73ieu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yaziacademy.meet.app",
+            "certificate_hash": "b372b8ffa7d2c942e49452774e80e4e20c27f88e"
+          }
+        },
+        {
+          "client_id": "293038259746-c5ivus3dt0mfph5cgom31c6ogr35uocg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yaziacademy.meet.app",
+            "certificate_hash": "f1b9e78bb9a7a7fc7e70e14e05b0bf9187656788"
+          }
+        },
+        {
+          "client_id": "293038259746-f6og6lvtlb5mfpl235mtocgh4qm85ut6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yaziacademy.meet.app",
+            "certificate_hash": "16c2264da42f23ceb32f53e0609cee8202582c46"
+          }
+        },
+        {
+          "client_id": "293038259746-4d053goso9mu9b2ola34jfkdgk39u2da.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2IUC9yY_TwUpXUxS_e8SugHpqjS8iGlM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293038259746-4d053goso9mu9b2ola34jfkdgk39u2da.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "293038259746-20navivj2rar235t9h585hmt80tb0up8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.yazi.app.user",
+                "app_store_id": "1527601725"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

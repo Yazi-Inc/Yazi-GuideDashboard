@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>293038259746-jdrpcjehff1se154btrcb20mo4s4nftg.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.293038259746-jdrpcjehff1se154btrcb20mo4s4nftg</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>293038259746-31fvp7o7pfpod9h503smf5bc213d8fgl.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyALUf2pJ3TEAy5ZLMnp_lWiDJvMooUKR9w</string>
+	<key>GCM_SENDER_ID</key>
+	<string>293038259746</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.admin</string>
+	<key>PROJECT_ID</key>
+	<string>ancient-tractor-277102</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ancient-tractor-277102.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:293038259746:ios:5671a620b8fc66878e547b</string>
+	<key>DATABASE_URL</key>
+	<string>https://ancient-tractor-277102.firebaseio.com</string>
+</dict>
+</plist>
